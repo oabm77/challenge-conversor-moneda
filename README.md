@@ -10,8 +10,15 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/RU41cvaQ/conversor-
 ## Estado del desafío
 :white_check_mark: **2025-05-07**: *Crear el repositorio del proyecto en GitHub.*
 
-:cherries:
+:white_check_mark: **2025-05-07**: *Configuración de entorno (Registro en Herramienta API, Prueba de peticiones GET en herramienta Postman).*
 
+:white_check_mark: **2025-05-07**: *Conociendo la API para traer datos: [exchangerate-api](https://www.exchangerate-api.com).*
+
+:white_check_mark: **2025-05-07**: *Importando la biblioteca Gson en Intellij.*
+
+:white_check_mark: **2025-05-08**: *Construyendo el Cliente para Solicitudes (HttpClient), la solicitud (HttpRequest) y la respuesta (HttpResponse)*
+
+:cherries:
 
 ## Funcionalidades
 - **Consumo de la API**: .
@@ -27,6 +34,9 @@ Puedes descargarlo **[AQUI](https://github.com/oabm77/challenge-conversor-moneda
 
 ## Tecnologías utilizadas
 - Lenguaje de programación Java
+- Librería Gson, desarrollada por Google
+- Postman (Herramienta para probar API REST)
+- APIs para traer datos referenteas al intercambio de divisas [ExchangeRate-API](https://www.exchangerate-api.com), [Open Exchange Rates](https://openexchangerates.org) y [Coingecko](https://www.coingecko.com/en/api). 
 
 ## Autores
 | [<img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width=115 height=115 style="background-color:black;"><br><sub>Equipo Alura Latam</sub>](https://www.aluracursos.com) |  [<img src="https://live.staticflickr.com/65535/54296423135_023657de24_q_d.jpg" width=115><br><sub>Omar Bautista</sub>]([https://udocumentos.blogspot.com) |
