@@ -18,6 +18,8 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/RU41cvaQ/conversor-
 
 :white_check_mark: **2025-05-08**: *Construyendo el Cliente para Solicitudes (HttpClient), la solicitud (HttpRequest) y la respuesta (HttpResponse)*
 
+:white_check_mark: **2025-05-11**: *Analizando la respuesta en formato JSON, utilizando las clases proporcionadas por la librería Gson, como son JsonParser y JsonObject*
+
 :cherries:
 
 ## Funcionalidades
